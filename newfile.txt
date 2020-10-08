@@ -7,3 +7,7 @@ Create a new file called newfile.txt, add some contents to it and push it to Git
 
 add some changes:
 i don't know change what?
+
+
+add some changes on github:
+this is ammazing!
